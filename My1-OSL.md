@@ -13,7 +13,7 @@ Definitions:
 
 * **"I"**, "me" and so on defines the **Licensor**, the **holder of the Copyright** etc. to this Project.
 * **"You"** defines any **Licensee** who is willing to use this Project
-* **"This Project"** defines the **target of the License**, in other words **source code** written by me **under this License**.
+* **"This Project"** defines the **target of the License**, in other words mostly **source code**, but also Documentation, or pretty much anything published by me **under this License**.
 * **Modifications** define any changes to any files partaining to this Project.
 * **"Derivative works"** defines anything that **incorperates this Project**, be it modified or not.
 
