@@ -4,15 +4,15 @@ My1's Open Source License (My1-OSL)
 
 This Lincense is supposed to be a nice little mix of the AGPL, LGPL and a bit of MIT, Apache and BSD.
 
-#### Long Story short, anyone can do whatever they want as long as they also make the source including modifications available UNDER THIS LICENSE and don't make me responsible for anything. Usage of trademarks is not allowed, but patents are (as long as this Project doesnt get patent-sued from the respective person).
+#### Long Story short, anyone can do pretty much whatever they want as long as they also make the source including modifications available UNDER THIS LICENSE and don't make me responsible for anything. Usage of trademarks is not allowed, but patents are (as long as this Project doesnt get patent-sued from the respective person).
 --
 
 Now Let's go into the details:
 
 Definitions:
 
-* **"I"**, "me" and so on defines the **Licensor**, the **holder of the Copyright** etc. to this Project.
-* **"You"** defines any **Licensee** who is willing to use this Project
+* **"I"**, "me", we, us, and so on defines the **Licensor**(s) in other words, the **holder**(s) **of the Copyright** etc. to this Project, Licensing This Project under This License to You.
+* **"You"** defines any **Licensee** who is willing to use this Project.
 * **"This Project"** defines the **target of the License**, in other words mostly **source code**, but also Documentation, or pretty much anything published by me **under this License**.
 * **Modifications** define any changes to any files partaining to this Project.
 * **"Derivative works"** defines anything that **incorperates this Project**, be it modified or not.
@@ -40,6 +40,8 @@ you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell c
     **have to include This License file including the Copyright notice**, located at the top of this License.
     * BUT: **My name or** the names of **any contributors** partaining to this Project **may not be used to advertise**, 
       endorse, promote, etc. products derived from this Project **without specific prior written permission**.
+    * In Network environments, where server-side code cannot be seen directly, it would be nice, although it is not required, 
+      to show a notice that this project was used (for example on an about page)
   * Direct **Modifications** to this Project shall be released under none other than **this License**.
     * It is **recommended** to **share any Modifications** with me (to make this Project even better), but **not required**
 * This License does **not grant permission to use the trade names**,
@@ -47,7 +49,7 @@ you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell c
      **except as required** for **reasonable** and customary use in **describing the
      origin** of the Parts pertaining to this Project.
 * **Subject to the terms and conditions of this License**, 
-     each Contributor hereby **grants to You** a perpetual,
+     each Contributor, inlcuding Me, to This Project hereby **grants to You** a perpetual,
      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
      (except as stated in this section) **patent license** to make, have made,
      use, offer to sell, sell, import, and otherwise transfer the Project,
@@ -71,5 +73,6 @@ you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell c
 * "If **a provision** of this License is or becomes **illegal, invalid or unenforceable** in any jurisdiction, that **shall not affect**:
   * the validity or enforceability in that jurisdiction of **any other provision** of this License; or
   * the validity or enforceability in **other jurisdictions** of that or any other provision of this License."
-  * **UNLESS a substential potion** of this License becomes **illegal, invalid or unenforceable** in the **jurisdiction of either you or me**
+  * **UNLESS substential parts** of this License become **illegal, invalid or unenforceable** in the **jurisdiction of either you or me**
     * then **ONLY the instance** of this License **granted to you from me** becomes **null and void**, **including** the **use of any code** released under This License, **not affecting** the grants under this License to **other people**.
+* If the Grant of This License becomes void (e.g. because you not agreeing to abide it, or because the Law deemed significang parts as unusable) You MAY NOT use this Project for any intents and porposes.
